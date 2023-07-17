@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wf5XvFHwspr/G6Dkd7nQo4lgitwoAOwi3CFA7hV02L0NUPvJoffnHegEBSaa8e5+JIEPTFagsyQl9OOLI0GJOQ==",
+  "success": true,
+  "projectFilePath": "C:\\EHSProject\\SampleProject\\DataClass\\DataClass.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "您正在使用 'HTTP' 來源 'http://nuget01.etzone.net/nuget' 執行 'restore' 作業。未來的版本將移除非 HTTPS 存取。請考慮移轉至 'HTTPS' 來源。"
+    }
+  ]
+}
